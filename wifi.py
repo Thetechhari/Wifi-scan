@@ -1,4 +1,4 @@
-import os
+limport os
 
 def scan_wifi():
     try:
